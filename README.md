@@ -47,6 +47,7 @@ GasPayBack is a growing community of ETH users taking control of their gas expen
 ## 🌐 Website
 
 👉 **[https://eth.gaspayback.com/](https://eth.gaspayback.com/)**
+👉 **[gaspayback.eth](gaspayback.eth)**
 
 ---
 
@@ -54,7 +55,6 @@ GasPayBack is a growing community of ETH users taking control of their gas expen
 
 For support and inquiries:
 - 📧 Email: support@gaspayback.com
-- 🗨️ Join our Telegram Community: [t.me/gaspayback](https://t.me/gaspayback)
 
 ---
 
